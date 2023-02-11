@@ -1,0 +1,33 @@
+ul {
+    list-style-type: none;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th,
+td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 12px;
+}
+button {
+    padding: 0;
+    border: none;
+    background: none;
+}
+th {
+    min-width: 100px;
+    background-color: #70880c;
+}
+
+td {
+    text-align: center;
+    background-color: rgba(151, 153, 108, 0.6);
+}
+
+.table-arrow {
+    width: 15px;
+    height: 15px;
+}
